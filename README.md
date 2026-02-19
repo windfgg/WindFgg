@@ -14,9 +14,9 @@
 
 <!-- GitHub Stats (auto light/dark) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=WindFgg&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&theme=onedark&cache_seconds=7200" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=WindFgg&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&theme=great-gatsby&cache_seconds=7200" />
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=WindFgg&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&theme=great-gatsby" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WindFgg&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&theme=onedark&cache_seconds=7200" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WindFgg&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&theme=great-gatsby&cache_seconds=7200" />
+  <img alt="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WindFgg&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&theme=great-gatsby" />
 </picture>
 
 <!-- Streak (auto light/dark) -->
@@ -28,9 +28,9 @@
 
 <!-- Top Languages (auto light/dark) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WindFgg&layout=compact&langs_count=10&hide_progress=false&hide_border=true&card_width=320&theme=onedark&cache_seconds=7200" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WindFgg&layout=compact&langs_count=10&hide_progress=false&hide_border=true&card_width=320&theme=onedark&cache_seconds=7200" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WindFgg&layout=compact&langs_count=10&hide_progress=false&hide_border=true&card_width=320&theme=onedark" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WindFgg&layout=compact&langs_count=10&hide_progress=false&hide_border=true&card_width=320&theme=onedark&cache_seconds=7200" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/api/top-langs/?username=WindFgg&layout=compact&langs_count=10&hide_progress=false&hide_border=true&card_width=320&theme=onedark&cache_seconds=7200" />
+  <img alt="Top Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WindFgg&layout=compact&langs_count=10&hide_progress=false&hide_border=true&card_width=320&theme=onedark" />
 </picture>
 
 <!-- Trophies -->
@@ -50,15 +50,15 @@
 <!-- Optional: Wakatime (enable if you use WakaTime and set username) -->
 <!--
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=WindFgg&hide_border=true&theme=onedark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=WindFgg&hide_border=true&theme=default" />
-  <img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=WindFgg&hide_border=true&theme=default" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=WindFgg&hide_border=true&theme=onedark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=WindFgg&hide_border=true&theme=default" />
+  <img alt="Wakatime Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=WindFgg&hide_border=true&theme=default" />
 </picture>
 -->
 
 <!-- Optional: Pin your best repos (replace REPO_NAME) -->
 <!--
 <a href="https://github.com/WindFgg/REPO_NAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WindFgg&repo=REPO_NAME&hide_border=true&theme=onedark" alt="Pinned Repo" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=WindFgg&repo=REPO_NAME&hide_border=true&theme=onedark" alt="Pinned Repo" />
 </a>
 -->
